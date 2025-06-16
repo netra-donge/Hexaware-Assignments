@@ -633,8 +633,6 @@ Group by C.SenderAddress;
 
 
 
-create database car_rental_system;
-use car_rental_system;
 
 
 
